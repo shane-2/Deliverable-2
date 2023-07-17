@@ -1,0 +1,15 @@
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\Student Database Lab.csproj.AssemblyReference.cache
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\Student Database Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\Student Database Lab.AssemblyInfoInputs.cache
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\Student Database Lab.AssemblyInfo.cs
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\Student Database Lab.csproj.CoreCompileInputs.cache
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\bin\Debug\net6.0\Student Database Lab.exe
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\bin\Debug\net6.0\Student Database Lab.deps.json
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\bin\Debug\net6.0\Student Database Lab.runtimeconfig.json
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\bin\Debug\net6.0\Student Database Lab.dll
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\bin\Debug\net6.0\Student Database Lab.pdb
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\Student Database Lab.dll
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\refint\Student Database Lab.dll
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\Student Database Lab.pdb
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\Student Database Lab.genruntimeconfig.cache
+C:\Users\shane\Desktop\Random Code\Student Database Lab\Student Database Lab\obj\Debug\net6.0\ref\Student Database Lab.dll

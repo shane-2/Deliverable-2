@@ -8,16 +8,16 @@ Console.WriteLine("Welcome to the COIN FLIP CHALLENGE!");
     string name = Console.ReadLine();
     {
         Console.WriteLine("Welcome " + name + ". Do you want to do the COIN FLIP CHALLENGE? Yes/No");
-        string answer = Console.ReadLine();
-        if (answer == "No")
+        string answer = Console.ReadLine().ToLower();
+        if (answer == "no")
         {
             Console.WriteLine("You are a coward " + name + ".");
         }
 
-        Random r = new Random();
-        int cf = r.Next(0, 2);
-        string[] ht = { "Heads", "Tails" };
-        if (answer == "Yes")
+        Random coin = new Random();
+        int compflip = coin.Next(0, 2);
+        string[] choices = { "Heads", "Tails" };
+        if (answer == "yes")
         {
             int x = 0;
             //count how many times console said "Correct!"
@@ -33,24 +33,26 @@ Console.WriteLine("Welcome to the COIN FLIP CHALLENGE!");
                         bool playerwins = true;
                         
 
-                        playerwins = (Console.ReadLine() == ht[cf]);
 
-                        if (!playerwins)
-
-                        
-
-
+                        playerwins = (Console.ReadLine() == choices[compflip]);
                         {
-                            Console.WriteLine("Correct!");
-                            cf = r.Next(0, 2);
-                            x++;
-                        
-                        
-                        }
-                        else
-                        {
-                            Console.WriteLine("Wrong!");
-                            cf = r.Next(0, 2);
+                            if (!playerwins)
+
+                                
+
+
+                            {
+                                Console.WriteLine("Correct!");
+                                compflip = coin.Next(0, 2);
+                                x++;
+
+
+                            }
+                            else
+                            {
+                                Console.WriteLine("Wrong!");
+                                compflip = coin.Next(0, 2);
+                            }
                         }
                         
                     }
